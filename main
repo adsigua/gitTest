@@ -1,6 +1,9 @@
 #!/usr/bin/phyton3
 
 def main(msg):
-//haha
+
+    //haha
+    //print message
+
     print(msg)
 main("hello world")
