@@ -1,9 +1,11 @@
 #!/usr/bin/phyton3
 
 def main(msg):
-
-    //haha
-    //print message
-
+    // no longer need comments
     print(msg)
+
+def second():
+    print("new function")
+
 main("hello world")
+
