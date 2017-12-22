@@ -1,1 +1,2 @@
 # gitTest
+example of git
